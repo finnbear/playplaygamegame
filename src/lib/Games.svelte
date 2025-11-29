@@ -100,7 +100,7 @@
                                     <h3 class="yourgame" style="text-align:center">Your game here!</h3>
                                 </div>
                             {:else}
-                                <img src={`/${game.teaser}`} alt={game.name}/>
+                                <img src={`/thumbnails/${game.thumbnail}`} alt={game.name}/>
                                 <h3 class="domain">{game.name}</h3>
                             {/if}
                         </a>

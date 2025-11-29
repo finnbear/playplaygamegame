@@ -19,7 +19,7 @@
       "Action",
       "Multiplayer"
     ],
-    "teaser": "ballbrawl_teaser.webp"
+    "thumbnail": "ballbrawl_512x512.webp"
   },
   {
     "name": "Kiomet",
@@ -31,7 +31,7 @@
       "Multiplayer"
     ],
     "developer": "Softbear",
-    "teaser": "kiomet_teaser.webp"
+    "thumbnail": "kiomet_512x512.webp"
   },
   {
     "name": "Krakax",
@@ -43,7 +43,7 @@
       "Multiplayer"
     ],
     "developer": "Softbear",
-    "teaser": "krakax_teaser.webp"
+    "thumbnail": "krakax_512x512.webp"
   },
   {
     "name": "Mazean",
@@ -55,7 +55,7 @@
       "Multiplayer"
     ],
     "developer": "Softbear",
-    "teaser": "mazean_teaser.webp"
+    "thumbnail": "mazean_512x512.webp"
   },
   {
     "name": "Mk48",
@@ -67,7 +67,7 @@
       "Multiplayer"
     ],
     "developer": "Softbear",
-    "teaser": "mk48_teaser.webp"
+    "thumbnail": "mk48_512x512.webp"
   },
   {
     "name": "Netquel",
@@ -79,7 +79,7 @@
       "Multiplayer"
     ],
     "developer": "Softbear",
-    "teaser": "netquel_teaser.webp"
+    "thumbnail": "netquel_512x512.webp"
   },
   {
     "name": "Tankgank",
@@ -91,7 +91,7 @@
       "Multiplayer"
     ],
     "developer": "Softbear",
-    "teaser": "tankgank_teaser.webp"
+    "thumbnail": "tankgank_512x512.webp"
   },
   {
     "name": "Turnfight",
@@ -103,7 +103,7 @@
       "Multiplayer"
     ],
     "developer": "Softbear",
-    "teaser": "turnfight_teaser.webp"
+    "thumbnail": "turnfight_512x512.webp"
   },
   {
     "name": "Ships 3D",
@@ -115,7 +115,7 @@
       "Multiplayer"
     ],
     "developer": "Yp3d",
-    "teaser": "ships3d_teaser.webp"
+    "thumbnail": "ships3d_512x512.webp"
   },
   {
     "name": "Tanks 3D",
@@ -127,7 +127,7 @@
       "Multiplayer"
     ],
     "developer": "Yp3d",
-    "teaser": "tanks3d_teaser.webp"
+    "thumbnail": "tanks3d_512x512.webp"
   },
   {
     "name": "Voxmaxa",
@@ -139,7 +139,7 @@
       "Multiplayer"
     ],
     "developer": "Softbear",
-    "teaser": "voxmaxa_teaser.webp"
+    "thumbnail": "voxmaxa_512x512.webp"
   },
   {
     "name": "HEX BOIS",
@@ -151,7 +151,7 @@
       "Multiplayer"
     ],
     "developer": "Stan Flint",
-    "teaser": "hexbois_teaser.webp"
+    "thumbnail": "hexbois_512x512.webp"
   },
   {
     "name": "Voxorp",
@@ -163,6 +163,6 @@
       "Multiplayer"
     ],
     "developer": "Stan Flint",
-    "teaser": "voxorp_teaser.webp"
+    "thumbnail": "voxorp_512x512.webp"
   }
 ]
