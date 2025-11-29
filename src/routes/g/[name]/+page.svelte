@@ -2,7 +2,7 @@
     import {page} from '$app/stores';
     import games from '$lib/games.json';
     const name = $page.params.name;
-    const game = games.find(g => g.name == name);
+    const game = games.find(g => g.name.replace(' ', '-') == name);
 </script>
 
 <svelte:head>

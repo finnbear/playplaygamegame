@@ -94,7 +94,7 @@
                 {#key game.name}    
                     {@const yourGame = game.name == "yourgame"}
                     <div class="game" class:yourgame={yourGame}>
-                        <a href={yourGame ? `https://${game.domain}` : `/g/${game.name}`}>
+                        <a href={yourGame ? `https://${game.domain}` : `/g/${game.name.replace(' ', '-')}`}>
                             {#if yourGame}
                                 <div class="fakeimg">
                                     <h3 class="yourgame" style="text-align:center">Your game here!</h3>

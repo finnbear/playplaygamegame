@@ -17,7 +17,7 @@
     </p>
 
     <h3>Players</h3>
-    <p>Hello, we're so glad you're here! Have a game you want on this platform? <a href="mailto:contact@softbear.com">Contact us</a>.</p>
+    <p>Hello, we're so glad you're here! Have a game you want on this platform? <a href="mailto:contact@softbear.com">Contact us</a>. Want a multiplayer-focused game site? Visit <a href="https://realmultiplayer.com">realmultiplayer.com</a>.</p>
 
     <h3>Developers</h3>
     <p>We have several key features that make our platform stand out to game developers:</p>
